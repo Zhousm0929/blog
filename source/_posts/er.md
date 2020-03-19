@@ -8,7 +8,8 @@ tags:
 | :-----| ----: | :----: |
 | 单元格 | 单元格 | 单元格 |
 | 单元格 | 单元格 | 单元格 |
-```javascript
+```
+javascript
 $(document).ready(function () {
     alert('RUNOOB');
 });
